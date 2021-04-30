@@ -1,1 +1,1 @@
-![Metrics](https://github.com/cadamsmith/cadamsmith/blob/main/github-metrics.svg)
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<cadamsmith>&theme=<synthwave>" />
