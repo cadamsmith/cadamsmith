@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor='#f7df1e'&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=f7df1e&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Markup-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 
