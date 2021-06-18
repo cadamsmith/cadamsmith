@@ -20,5 +20,5 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cadamsmith&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
-![alt text](https://github.com/cadamsmith/cadamsmith/raw/master/dino.gif "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/cadamsmith/cadamsmith/main/dino.gif "Logo Title Text 1")
 
