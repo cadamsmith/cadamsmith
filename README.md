@@ -22,7 +22,7 @@
     <img alt="Teams" src="https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white"/>
 </div>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cadamsmith&v=2)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
-![alt text](https://raw.githubusercontent.com/cadamsmith/cadamsmith/main/dino.gif "Logo Title Text 1")
+[![Adam's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=cadamsmith&v=2&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
