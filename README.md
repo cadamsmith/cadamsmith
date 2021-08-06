@@ -2,7 +2,7 @@
 
 <div>
     <img alt="C#" src="https://img.shields.io/badge/c%23-058E0C.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    <img alt=".Net" src="https://img.shields.io/badge/.NET-592C8C?style=for-the-badge&logo=.net&logoColor=white"/>
+    <img alt=".NET" src="https://img.shields.io/badge/.NET-592C8C?style=for-the-badge&logo=.net&logoColor=white"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -17,8 +17,9 @@
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
     <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
-    <img alt="Entity Framework" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira"/>
-    <img alt="Entity Framework" src="https://img.shields.io/badge/xd-FF61F6?style=for-the-badge&logo=adobexd"/>
+    <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira"/>
+    <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white"/>
+    <img alt="Teams" src="https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white"/>
 </div>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cadamsmith&v=2)](https://github.com/anuraghazra/github-readme-stats)
