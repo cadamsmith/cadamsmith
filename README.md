@@ -17,6 +17,7 @@
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
     <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
+    <img alt="Entity Framework" src="https://img.shields.io/badge/Jira-0052CC"/>
 </div>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cadamsmith&v=2)](https://github.com/anuraghazra/github-readme-stats)
