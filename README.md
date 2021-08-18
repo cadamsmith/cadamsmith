@@ -24,6 +24,8 @@
 
 <br/>
 
+<img src="https://github.com/cadamsmith/cadamsmith/blob/main/images/stat.svg" alt="Cadamsmith Wakatime Activity"/>
+
 [![Adam's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=cadamsmith&v=2&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![City at Night](https://raw.githubusercontent.com/cadamsmith/cadamsmith/main/city.gif)
