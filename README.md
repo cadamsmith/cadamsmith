@@ -12,6 +12,7 @@
     <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
     <img alt="Ionic" src ="https://img.shields.io/badge/ionic-%23498AFF.svg?style=for-the-badge&logo=ionic&logoColor=white"/>
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-6F11EF.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img alt="Java" src="https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white"/>
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
     <img alt="Microsoft SQL Server" src ="https://img.shields.io/badge/microsoft_sql_server-%23B11A1A.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
