@@ -27,7 +27,7 @@
 
 <br/>
 
-[//]: # (Comment)
+[//]: # (test)
 
 <img src="https://github.com/cadamsmith/cadamsmith/blob/main/images/stat.svg" alt="Cadamsmith Wakatime Activity"/>
 
