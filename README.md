@@ -31,4 +31,4 @@
 
 <img src="https://github.com/cadamsmith/cadamsmith/blob/main/images/stat.svg" alt="Cadamsmith Wakatime Activity"/>
 
-![pixelated city at night](https://raw.githubusercontent.com/cadamsmith/cadamsmith/main/city.gif)
+![Pixelated city at night](https://raw.githubusercontent.com/cadamsmith/cadamsmith/main/city.gif)
