@@ -23,6 +23,15 @@
 <br/>
 
 <!--START_SECTION:waka-->
+
+```txt
+C#              13 hrs 48 mins  ███████████▓░░░░░░░░░░░░░   47.08 %
+CSHTML          5 hrs 28 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.63 %
+Other           4 hrs 50 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.53 %
+Binary          3 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
+JavaScript      52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+```
+
 <!--END_SECTION:waka-->
 
 [![wakatime](https://wakatime.com/badge/user/2234bda2-efd3-47c5-8724-79108edfe9aa.svg)](https://wakatime.com/@2234bda2-efd3-47c5-8724-79108edfe9aa)
