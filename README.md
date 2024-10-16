@@ -22,7 +22,8 @@
 
 <br/>
 
-<img src="https://github.com/cadamsmith/cadamsmith/blob/main/images/stat.svg" alt="Cadamsmith Wakatime Activity"/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![wakatime](https://wakatime.com/badge/user/2234bda2-efd3-47c5-8724-79108edfe9aa.svg)](https://wakatime.com/@2234bda2-efd3-47c5-8724-79108edfe9aa)
 
