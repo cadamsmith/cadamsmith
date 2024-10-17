@@ -24,4 +24,4 @@ JavaScript      52 mins         ▓░░░░░░░░░░░░░░░
 
 [![wakatime](https://wakatime.com/badge/user/2234bda2-efd3-47c5-8724-79108edfe9aa.svg)](https://wakatime.com/@2234bda2-efd3-47c5-8724-79108edfe9aa)
 
-![Pixelated city at night](https://raw.githubusercontent.com/cadamsmith/cadamsmith/main/city.gif)
+![Pixelated city at night](./media/city.gif)
