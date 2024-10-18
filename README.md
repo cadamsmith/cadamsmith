@@ -25,3 +25,5 @@ Python       1 hr 50 mins    █▓░░░░░░░░░░░░░░░
 [![wakatime](https://wakatime.com/badge/user/2234bda2-efd3-47c5-8724-79108edfe9aa.svg)](https://wakatime.com/@2234bda2-efd3-47c5-8724-79108edfe9aa)
 
 ![Pixelated city at night](./media/city.gif)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/cadamsmith?theme=nord)](https://leetcode.com/cadamsmith)
