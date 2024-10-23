@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2024 - To: 21 October 2024
+From: 15 October 2024 - To: 22 October 2024
 
-Total Time: 24 hrs 28 mins
+Total Time: 28 hrs 17 mins
 
-C#           9 hrs 12 mins   ████████▓░░░░░░░░░░░░░░░░   34.09 %
-CSHTML       3 hrs 57 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 %
-Python       3 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
-JavaScript   2 hrs 41 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
-Other        2 hrs 33 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
+C#           11 hrs 6 mins   █████████░░░░░░░░░░░░░░░░   36.00 %
+CSHTML       4 hrs 51 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.72 %
+JavaScript   3 hrs 29 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
+Python       3 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
+Binary       2 hrs 37 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
 ```
 
 <!--END_SECTION:waka-->
