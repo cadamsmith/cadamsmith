@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 October 2024 - To: 06 November 2024
+From: 31 October 2024 - To: 07 November 2024
 
-Total Time: 13 hrs 46 mins
+Total Time: 11 hrs 32 mins
 
-C#            6 hrs 11 mins   █████████▓░░░░░░░░░░░░░░░   38.86 %
-CSHTML        4 hrs 58 mins   ███████▓░░░░░░░░░░░░░░░░░   31.25 %
-Other         2 hrs 9 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
-CSS           37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-Binary        34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+C#            4 hrs 40 mins   █████████░░░░░░░░░░░░░░░░   35.64 %
+CSHTML        4 hrs 27 mins   ████████▓░░░░░░░░░░░░░░░░   34.00 %
+Other         1 hr 33 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
+CSS           37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+Binary        34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
 ```
 
 <!--END_SECTION:waka-->
