@@ -11,15 +11,15 @@ Check out my website! [https://cadamsmith.dev](https://cadamsmith.dev)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 May 2025 - To: 22 May 2025
+From: 16 May 2025 - To: 23 May 2025
 
-Total Time: 18 hrs 48 mins
+Total Time: 19 hrs 31 mins
 
-C#           12 hrs 47 mins  ████████████████░░░░░░░░░   63.67 %
-Binary       3 hrs 6 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.51 %
-CSHTML       2 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
-Other        1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-JavaScript   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+C#           13 hrs 32 mins  ████████████████▒░░░░░░░░   65.75 %
+CSHTML       2 hrs 57 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
+Binary       1 hr 47 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
+Other        1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+JavaScript   39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
 ```
 
 <!--END_SECTION:waka-->
