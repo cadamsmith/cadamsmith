@@ -11,11 +11,14 @@ Check out my website! [https://cadamsmith.dev](https://cadamsmith.dev)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2025 - To: 24 June 2025
+From: 18 June 2025 - To: 25 June 2025
 
-Total Time: 0 secs
+Total Time: 47 mins
 
-No activity tracked
+Astro        43 mins         ██████████████████████▓░░   91.32 %
+Markdown     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+CSS          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
