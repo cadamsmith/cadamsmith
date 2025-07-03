@@ -11,15 +11,15 @@ Check out my website! [https://cadamsmith.dev](https://cadamsmith.dev)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 June 2025 - To: 01 July 2025
+From: 25 June 2025 - To: 02 July 2025
 
-Total Time: 4 hrs 56 mins
+Total Time: 4 hrs 8 mins
 
-Astro        3 hrs 15 mins   ████████████████▓░░░░░░░░   66.05 %
-TypeScript   37 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
-Markdown     26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
-JavaScript   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
-SCSS         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Astro        2 hrs 32 mins   ███████████████▒░░░░░░░░░   61.28 %
+TypeScript   37 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
+Markdown     23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
+JavaScript   16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
+SCSS         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
 ```
 
 <!--END_SECTION:waka-->
