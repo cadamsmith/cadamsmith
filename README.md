@@ -11,15 +11,11 @@ Check out my website! [https://cadamsmith.dev](https://cadamsmith.dev)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2025 - To: 24 September 2025
+From: 19 September 2025 - To: 26 September 2025
 
-Total Time: 31 mins
+Total Time: 0 secs
 
-Astro        8 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.08 %
-Svelte       7 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.42 %
-Markdown     5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.14 %
-TypeScript   4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
-JSON         3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
