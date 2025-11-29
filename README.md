@@ -11,13 +11,13 @@ Check out my website! [https://cadamsmith.dev](https://cadamsmith.dev)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 November 2025 - To: 27 November 2025
+From: 21 November 2025 - To: 28 November 2025
 
-Total Time: 1 hr 23 mins
+Total Time: 44 mins
 
-JavaScript   1 hr 6 mins     ████████████████████░░░░░   79.92 %
-TypeScript   16 mins         █████░░░░░░░░░░░░░░░░░░░░   20.00 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TypeScript   29 mins         ████████████████▓░░░░░░░░   66.01 %
+JavaScript   15 mins         ████████▒░░░░░░░░░░░░░░░░   33.99 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
