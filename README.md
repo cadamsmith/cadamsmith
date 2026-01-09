@@ -11,15 +11,15 @@ Check out my website! [https://cadamsmith.dev](https://cadamsmith.dev)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2025 - To: 07 January 2026
+From: 01 January 2026 - To: 08 January 2026
 
-Total Time: 15 hrs 52 mins
+Total Time: 14 hrs
 
-TypeScript       6 hrs 25 mins   ██████████░░░░░░░░░░░░░░░   40.46 %
-Markdown         2 hrs 14 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
-JSON             1 hr 47 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
-HTML             1 hr 37 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
-YAML             1 hr 19 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
+TypeScript       5 hrs 54 mins   ██████████▓░░░░░░░░░░░░░░   42.12 %
+JSON             1 hr 47 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
+HTML             1 hr 37 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
+YAML             1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
+JavaScript       59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
 ```
 
 <!--END_SECTION:waka-->
