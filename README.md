@@ -1,8 +1,8 @@
 ### Hi, I'm Adam 👋
 
-[![Langs/Libraries](https://skillicons.dev/icons?i=cs,dotnet,js,css,html,sass,ts,jquery,bootstrap)](https://skillicons.dev)
+![row 1](https://skillicons.dev/icons?i=cs,dotnet,ts,js,java,html,sass,css,bootstrap)
 <br/>
-[![Dev Tools](https://skillicons.dev/icons?i=git,github,githubactions,visualstudio)](https://skillicons.dev)
+![row 2](https://skillicons.dev/icons?i=jquery,npm,svelte,astro,git,github,githubactions,visualstudio,webstorm)
 
 Check out my website! [https://cadamsmith.dev](https://cadamsmith.dev)
 
