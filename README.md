@@ -1,9 +1,38 @@
-### Hi, I'm Adam 👋
+<h2 align="center">Adam Smith</h2>
+<p align="center">
+  <b>Full-Stack Software Engineer</b> &nbsp;·&nbsp; Atlanta, GA
+</p>
+<p align="center">
+  Full-stack software engineer focused on building internal tooling,<br/>
+  automating development workflows, and shipping reliable software.
+</p>
+<p align="center">
+  <a href="https://cadamsmith.dev"><img src="https://img.shields.io/badge/cadamsmith.dev-000000?style=flat&logo=astro&logoColor=white" alt="Website"/></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/cadamsmith"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="mailto:cadamsmith.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-![row 1](https://skillicons.dev/icons?i=cs,dotnet,ts,js,java,html,sass,css,bootstrap)
-<br/>
-![row 2](https://skillicons.dev/icons?i=jquery,npm,svelte,astro,git,github,githubactions,visualstudio,webstorm)
+---
 
-Check out my website! [https://cadamsmith.dev](https://cadamsmith.dev)
+<p align="center">
+  <sub>Backend</sub><br/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="Backend"/>
+</p>
+<p align="center">
+  <sub>Frontend</sub><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,sass,bootstrap,svelte,astro" alt="Frontend"/>
+</p>
+<p align="center">
+  <sub>Tools</sub><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,visualstudio,azure" alt="Tools"/>
+</p>
 
-[![wakatime](https://wakatime.com/badge/user/2234bda2-efd3-47c5-8724-79108edfe9aa.svg)](https://wakatime.com/@2234bda2-efd3-47c5-8724-79108edfe9aa)
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadamsmith&layout=compact&hide_border=true&langs_count=8" alt="Top Languages"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=cadamsmith&show_icons=true&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+</p>
