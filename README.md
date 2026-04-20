@@ -1,16 +1,13 @@
-<h2 align="center">Adam Smith</h2>
-<p align="center"><b>Full-Stack Software Engineer</b> &nbsp;·&nbsp; Atlanta, GA</p>
-<p align="center">Building internal tooling, automating workflows, and shipping reliable software.</p>
-<p align="center">
-  <a href="https://cadamsmith.dev"><img src="https://img.shields.io/badge/cadamsmith.dev-000000?style=flat&logo=astro&logoColor=white" alt="Website"/></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/cadamsmith"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="mailto:cadamsmith.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+### Hey, I'm Adam 👋
+
+**Full-Stack Software Engineer** · Atlanta, GA
+
+[cadamsmith.dev](https://cadamsmith.dev) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/cadamsmith) &nbsp;·&nbsp; [Email](mailto:cadamsmith.dev@gmail.com)
+
+---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,html,css,sass,bootstrap,svelte,astro,git,github,githubactions,visualstudio,azure" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,html,css,sass,bootstrap,svelte,astro,git,github,githubactions,visualstudio,azure" alt="Tech Stack"/>
 </p>
 
 <p align="center">
