@@ -1,11 +1,6 @@
 <h2 align="center">Adam Smith</h2>
-<p align="center">
-  <b>Full-Stack Software Engineer</b> &nbsp;·&nbsp; Atlanta, GA
-</p>
-<p align="center">
-  Full-stack software engineer focused on building internal tooling,<br/>
-  automating development workflows, and shipping reliable software.
-</p>
+<p align="center"><b>Full-Stack Software Engineer</b> &nbsp;·&nbsp; Atlanta, GA</p>
+<p align="center">Building internal tooling, automating workflows, and shipping reliable software.</p>
 <p align="center">
   <a href="https://cadamsmith.dev"><img src="https://img.shields.io/badge/cadamsmith.dev-000000?style=flat&logo=astro&logoColor=white" alt="Website"/></a>
   &nbsp;
@@ -14,22 +9,9 @@
   <a href="mailto:cadamsmith.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
----
-
 <p align="center">
-  <sub>Backend</sub><br/>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,html,css,sass,bootstrap,svelte,astro,git,github,githubactions,visualstudio,azure" alt="Skills"/>
 </p>
-<p align="center">
-  <sub>Frontend</sub><br/>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,sass,bootstrap,svelte,astro" alt="Frontend"/>
-</p>
-<p align="center">
-  <sub>Tools</sub><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,visualstudio,azure" alt="Tools"/>
-</p>
-
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadamsmith&layout=compact&hide_border=true&langs_count=8" alt="Top Languages"/>
