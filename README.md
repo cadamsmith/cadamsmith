@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer** · Atlanta, GA
 
-[cadamsmith.dev](https://cadamsmith.dev) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/cadamsmithdev) &nbsp;·&nbsp; [Email](mailto:cadamsmith.dev@gmail.com)
+[cadamsmith.dev](https://cadamsmith.dev) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/cadamsmithdev) &nbsp;·&nbsp; [Email](mailto:cadamsmith.dev@gmail.com)
 
 ---
 
